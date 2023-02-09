@@ -1,0 +1,11 @@
+{
+  "name": "front-end-code-specification",
+  "version": "1.0.0",
+  "description": "前端代码规范",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenjundi",
+  "license": "ISC"
+}
